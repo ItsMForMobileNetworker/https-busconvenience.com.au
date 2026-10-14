@@ -1,2 +1,2 @@
 # https-busconvenience.com.au
-Error: Description is currently missing. Please try again later.
+Error: User decided to have .com.au at the end despite not actually using .com.au
