@@ -1,0 +1,9 @@
+ul.navbar {
+    list-style-type: none;
+}
+ul.navbar li a {
+    display: block;
+    padding: 14px 16px;
+    text-align: left;
+}
+
