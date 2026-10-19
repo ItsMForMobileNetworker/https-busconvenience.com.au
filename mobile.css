@@ -5,20 +5,21 @@ ul.navbar li a {
     display: block;
     padding: 14px 16px;
     text-align: left;
+    font-size: 24px;
 }
 #bus-image {
-    width:200px;
-    height:200px;
+    width:400px;
+    height:400px;
 }
 #map-image {
-    width:200px;
-    height:200px;
+    width:400px;
+    height:400px;
 }
 #busdriver-image {
-    width:200px;
-    height:200px;
+    width:400px;
+    height:400px;
 }
 p {
     text-align: left;
-    font-size: 24px;
+    font-size: 40px;
 }
