@@ -6,4 +6,19 @@ ul.navbar li a {
     padding: 14px 16px;
     text-align: left;
 }
-
+#bus-image {
+    width:200px;
+    height:200px;
+}
+#map-image {
+    width:200px;
+    height:200px;
+}
+#busdriver-image {
+    width:200px;
+    height:200px;
+}
+p {
+    text-align: left;
+    font-size: 24px;
+}
